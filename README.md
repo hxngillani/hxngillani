@@ -42,7 +42,7 @@ Highly motivated Computer Science and Networking graduate student with experienc
 
 ## Projects
 
-* **Network Traffic and Queue Length Analysis in Minine:** implementation and analysis of network traffic generation and queue length measurement in a simulated Mininet environment.
+* **Network Traffic and Queue Length Analysis in Mininet:** implementation and analysis of network traffic generation and queue length measurement in a simulated Mininet environment.
 * **Cloud-Based HPC Cluster Deployment:** Deployed and managed an HPC cluster in the cloud.
 * **5G Network Deployment with Distributed UPF:** Implemented a 5G network with distributed UPF.
 * **Advanced Software Product Management:** Led software projects using Agile and DevOps.
