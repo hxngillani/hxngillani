@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Aether: A Private 5G Platform by ONF](https://github.com/opennetworkinglab/aether-onramp)
 
-- 🌱 I’m currently learning **about 6G technologies by following the 6G Talks series by the University of Oulu’s 6G Flagship program.**
+- 🌱 I’m currently learning **about 6G technologies by following the 6G Talks series by the University of Oulu’s 6G Flagship program.** [6G Talks Video Series](https://www.6gflagship.com/6g-talks/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/hxngillani](https://github.com/hxngillani)
 
