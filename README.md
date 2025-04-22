@@ -10,7 +10,9 @@
 - 🔭 I’m currently working on [Aether: A Private 5G Platform by ONF](https://github.com/opennetworkinglab/aether-onramp)
 
 - 🌱 I’m currently learning **about 6G technologies by following the 6G Talks series by the University of Oulu’s 6G Flagship program.** [6G Talks Video Series](https://www.6gflagship.com/6g-talks/)
-
+  
+- 📘 I’m also preparing for the **Microsoft 365 Endpoint Administrator Associate (MD-102) certification** through Microsoft Press on [LinkedIn Learning Academy](https://www.linkedin.com/learning/microsoft-365-endpoint-administrator-associate-md-102-cert-prep-by-microsoft-press/exam-md-102-endpoint-administrator-introduction)
+  
 - 👨‍💻 All of my projects are available at [https://github.com/hxngillani](https://github.com/hxngillani)
 
 - 📫 How to reach me **hassangillani@outlook.com**
